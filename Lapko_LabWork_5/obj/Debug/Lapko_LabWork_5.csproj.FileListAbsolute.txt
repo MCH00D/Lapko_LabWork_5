@@ -1,0 +1,7 @@
+c:\users\mmcho\documents\visual studio 2017\Projects\Lapko_LabWork_5\Lapko_LabWork_5\obj\Debug\Lapko_LabWork_5.csprojAssemblyReference.cache
+c:\users\mmcho\documents\visual studio 2017\Projects\Lapko_LabWork_5\Lapko_LabWork_5\obj\Debug\Lapko_LabWork_5.csproj.CoreCompileInputs.cache
+c:\users\mmcho\documents\visual studio 2017\Projects\Lapko_LabWork_5\Lapko_LabWork_5\bin\Debug\Lapko_LabWork_5.exe.config
+c:\users\mmcho\documents\visual studio 2017\Projects\Lapko_LabWork_5\Lapko_LabWork_5\bin\Debug\Lapko_LabWork_5.exe
+c:\users\mmcho\documents\visual studio 2017\Projects\Lapko_LabWork_5\Lapko_LabWork_5\bin\Debug\Lapko_LabWork_5.pdb
+c:\users\mmcho\documents\visual studio 2017\Projects\Lapko_LabWork_5\Lapko_LabWork_5\obj\Debug\Lapko_LabWork_5.exe
+c:\users\mmcho\documents\visual studio 2017\Projects\Lapko_LabWork_5\Lapko_LabWork_5\obj\Debug\Lapko_LabWork_5.pdb
